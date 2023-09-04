@@ -1,3 +1,0 @@
-# MLproject
-
-hello world
